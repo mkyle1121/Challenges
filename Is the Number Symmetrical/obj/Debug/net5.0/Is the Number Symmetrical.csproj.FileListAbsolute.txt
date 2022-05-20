@@ -1,0 +1,15 @@
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\bin\Debug\net5.0\Is the Number Symmetrical.exe
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\bin\Debug\net5.0\Is the Number Symmetrical.deps.json
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\bin\Debug\net5.0\Is the Number Symmetrical.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\bin\Debug\net5.0\Is the Number Symmetrical.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\bin\Debug\net5.0\Is the Number Symmetrical.dll
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\bin\Debug\net5.0\ref\Is the Number Symmetrical.dll
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\bin\Debug\net5.0\Is the Number Symmetrical.pdb
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\obj\Debug\net5.0\Is the Number Symmetrical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\obj\Debug\net5.0\Is the Number Symmetrical.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\obj\Debug\net5.0\Is the Number Symmetrical.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\obj\Debug\net5.0\Is the Number Symmetrical.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\obj\Debug\net5.0\Is the Number Symmetrical.dll
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\obj\Debug\net5.0\ref\Is the Number Symmetrical.dll
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\obj\Debug\net5.0\Is the Number Symmetrical.pdb
+C:\Users\mkyle\source\repos\Challenges\Is the Number Symmetrical\obj\Debug\net5.0\Is the Number Symmetrical.genruntimeconfig.cache

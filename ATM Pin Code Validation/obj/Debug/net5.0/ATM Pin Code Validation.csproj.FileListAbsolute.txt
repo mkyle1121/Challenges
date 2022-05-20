@@ -1,0 +1,15 @@
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\bin\Debug\net5.0\ATM Pin Code Validation.exe
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\bin\Debug\net5.0\ATM Pin Code Validation.deps.json
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\bin\Debug\net5.0\ATM Pin Code Validation.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\bin\Debug\net5.0\ATM Pin Code Validation.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\bin\Debug\net5.0\ATM Pin Code Validation.dll
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\bin\Debug\net5.0\ref\ATM Pin Code Validation.dll
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\bin\Debug\net5.0\ATM Pin Code Validation.pdb
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\obj\Debug\net5.0\ATM Pin Code Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\obj\Debug\net5.0\ATM Pin Code Validation.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\obj\Debug\net5.0\ATM Pin Code Validation.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\obj\Debug\net5.0\ATM Pin Code Validation.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\obj\Debug\net5.0\ATM Pin Code Validation.dll
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\obj\Debug\net5.0\ref\ATM Pin Code Validation.dll
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\obj\Debug\net5.0\ATM Pin Code Validation.pdb
+C:\Users\mkyle\source\repos\Challenges\ATM Pin Code Validation\obj\Debug\net5.0\ATM Pin Code Validation.genruntimeconfig.cache

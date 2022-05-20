@@ -1,0 +1,15 @@
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\bin\Debug\net5.0\Absolute Sum.exe
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\bin\Debug\net5.0\Absolute Sum.deps.json
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\bin\Debug\net5.0\Absolute Sum.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\bin\Debug\net5.0\Absolute Sum.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\bin\Debug\net5.0\Absolute Sum.dll
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\bin\Debug\net5.0\ref\Absolute Sum.dll
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\bin\Debug\net5.0\Absolute Sum.pdb
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\obj\Debug\net5.0\Absolute Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\obj\Debug\net5.0\Absolute Sum.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\obj\Debug\net5.0\Absolute Sum.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\obj\Debug\net5.0\Absolute Sum.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\obj\Debug\net5.0\Absolute Sum.dll
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\obj\Debug\net5.0\ref\Absolute Sum.dll
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\obj\Debug\net5.0\Absolute Sum.pdb
+C:\Users\mkyle\source\repos\Challenges\Absolute Sum\obj\Debug\net5.0\Absolute Sum.genruntimeconfig.cache

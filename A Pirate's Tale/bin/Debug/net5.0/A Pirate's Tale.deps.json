@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A Pirate's Tale/1.0.0": {
+        "runtime": {
+          "A Pirate's Tale.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A Pirate's Tale/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

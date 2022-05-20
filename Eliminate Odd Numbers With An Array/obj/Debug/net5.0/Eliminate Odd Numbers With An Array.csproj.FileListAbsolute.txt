@@ -1,0 +1,16 @@
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\bin\Debug\net5.0\Eliminate Odd Numbers With An Array.exe
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\bin\Debug\net5.0\Eliminate Odd Numbers With An Array.deps.json
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\bin\Debug\net5.0\Eliminate Odd Numbers With An Array.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\bin\Debug\net5.0\Eliminate Odd Numbers With An Array.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\bin\Debug\net5.0\Eliminate Odd Numbers With An Array.dll
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\bin\Debug\net5.0\ref\Eliminate Odd Numbers With An Array.dll
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\bin\Debug\net5.0\Eliminate Odd Numbers With An Array.pdb
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\Eliminate Odd Numbers With An Array.csproj.AssemblyReference.cache
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\Eliminate Odd Numbers With An Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\Eliminate Odd Numbers With An Array.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\Eliminate Odd Numbers With An Array.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\Eliminate Odd Numbers With An Array.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\Eliminate Odd Numbers With An Array.dll
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\ref\Eliminate Odd Numbers With An Array.dll
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\Eliminate Odd Numbers With An Array.pdb
+C:\Users\mkyle\source\repos\Challenges\Eliminate Odd Numbers With An Array\obj\Debug\net5.0\Eliminate Odd Numbers With An Array.genruntimeconfig.cache

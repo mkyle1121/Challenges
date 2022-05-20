@@ -1,0 +1,16 @@
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\bin\Debug\net5.0\Hamming Distance.exe
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\bin\Debug\net5.0\Hamming Distance.deps.json
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\bin\Debug\net5.0\Hamming Distance.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\bin\Debug\net5.0\Hamming Distance.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\bin\Debug\net5.0\Hamming Distance.dll
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\bin\Debug\net5.0\ref\Hamming Distance.dll
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\bin\Debug\net5.0\Hamming Distance.pdb
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\Hamming Distance.csproj.AssemblyReference.cache
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\Hamming Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\Hamming Distance.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\Hamming Distance.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\Hamming Distance.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\Hamming Distance.dll
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\ref\Hamming Distance.dll
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\Hamming Distance.pdb
+C:\Users\mkyle\source\repos\Challenges\Hamming Distance\obj\Debug\net5.0\Hamming Distance.genruntimeconfig.cache

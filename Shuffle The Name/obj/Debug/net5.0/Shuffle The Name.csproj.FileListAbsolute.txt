@@ -1,0 +1,16 @@
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\bin\Debug\net5.0\Shuffle The Name.exe
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\bin\Debug\net5.0\Shuffle The Name.deps.json
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\bin\Debug\net5.0\Shuffle The Name.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\bin\Debug\net5.0\Shuffle The Name.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\bin\Debug\net5.0\Shuffle The Name.dll
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\bin\Debug\net5.0\ref\Shuffle The Name.dll
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\bin\Debug\net5.0\Shuffle The Name.pdb
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\Shuffle The Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\Shuffle The Name.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\Shuffle The Name.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\Shuffle The Name.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\Shuffle The Name.dll
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\ref\Shuffle The Name.dll
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\Shuffle The Name.pdb
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\Shuffle The Name.genruntimeconfig.cache
+C:\Users\mkyle\source\repos\Challenges\Shuffle The Name\obj\Debug\net5.0\Shuffle The Name.csproj.AssemblyReference.cache

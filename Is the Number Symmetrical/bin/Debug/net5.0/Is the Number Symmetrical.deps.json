@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Is the Number Symmetrical/1.0.0": {
+        "runtime": {
+          "Is the Number Symmetrical.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Is the Number Symmetrical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

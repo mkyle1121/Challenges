@@ -1,0 +1,16 @@
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\A Pirate's Tale.csproj.AssemblyReference.cache
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\A Pirate's Tale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\A Pirate's Tale.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\A Pirate's Tale.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\A Pirate's Tale.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\bin\Debug\net5.0\A Pirate's Tale.exe
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\bin\Debug\net5.0\A Pirate's Tale.deps.json
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\bin\Debug\net5.0\A Pirate's Tale.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\bin\Debug\net5.0\A Pirate's Tale.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\bin\Debug\net5.0\A Pirate's Tale.dll
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\bin\Debug\net5.0\ref\A Pirate's Tale.dll
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\bin\Debug\net5.0\A Pirate's Tale.pdb
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\A Pirate's Tale.dll
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\ref\A Pirate's Tale.dll
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\A Pirate's Tale.pdb
+C:\Users\mkyle\source\repos\Challenges\A Pirate's Tale\obj\Debug\net5.0\A Pirate's Tale.genruntimeconfig.cache

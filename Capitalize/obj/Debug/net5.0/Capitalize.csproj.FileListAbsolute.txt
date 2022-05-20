@@ -1,0 +1,16 @@
+C:\Users\mkyle\source\repos\Challenges\Capitalize\bin\Debug\net5.0\Capitalize.exe
+C:\Users\mkyle\source\repos\Challenges\Capitalize\bin\Debug\net5.0\Capitalize.deps.json
+C:\Users\mkyle\source\repos\Challenges\Capitalize\bin\Debug\net5.0\Capitalize.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\Capitalize\bin\Debug\net5.0\Capitalize.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\Capitalize\bin\Debug\net5.0\Capitalize.dll
+C:\Users\mkyle\source\repos\Challenges\Capitalize\bin\Debug\net5.0\ref\Capitalize.dll
+C:\Users\mkyle\source\repos\Challenges\Capitalize\bin\Debug\net5.0\Capitalize.pdb
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\Capitalize.csproj.AssemblyReference.cache
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\Capitalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\Capitalize.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\Capitalize.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\Capitalize.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\Capitalize.dll
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\ref\Capitalize.dll
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\Capitalize.pdb
+C:\Users\mkyle\source\repos\Challenges\Capitalize\obj\Debug\net5.0\Capitalize.genruntimeconfig.cache

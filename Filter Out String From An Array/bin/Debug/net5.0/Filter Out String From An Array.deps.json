@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Filter Out String From An Array/1.0.0": {
+        "runtime": {
+          "Filter Out String From An Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filter Out String From An Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\bin\Debug\net5.0\Return The Factorial.exe
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\bin\Debug\net5.0\Return The Factorial.deps.json
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\bin\Debug\net5.0\Return The Factorial.runtimeconfig.json
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\bin\Debug\net5.0\Return The Factorial.runtimeconfig.dev.json
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\bin\Debug\net5.0\Return The Factorial.dll
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\bin\Debug\net5.0\ref\Return The Factorial.dll
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\bin\Debug\net5.0\Return The Factorial.pdb
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\obj\Debug\net5.0\Return The Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\obj\Debug\net5.0\Return The Factorial.AssemblyInfoInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\obj\Debug\net5.0\Return The Factorial.AssemblyInfo.cs
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\obj\Debug\net5.0\Return The Factorial.csproj.CoreCompileInputs.cache
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\obj\Debug\net5.0\Return The Factorial.dll
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\obj\Debug\net5.0\ref\Return The Factorial.dll
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\obj\Debug\net5.0\Return The Factorial.pdb
+C:\Users\mkyle\source\repos\Challenges\Return The Factorial\obj\Debug\net5.0\Return The Factorial.genruntimeconfig.cache
