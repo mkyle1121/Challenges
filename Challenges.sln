@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capitalize", "Capitalize\Capitalize.csproj", "{3A9FF7F3-5A25-4C6F-BCF1-6975008D3CE6}"
 EndProject
@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filter Out String From An A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is the Number Symmetrical", "Is the Number Symmetrical\Is the Number Symmetrical.csproj", "{5C7E7773-7977-4D1D-9A5A-A6135E8952BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return The Factorial", "Return The Factorial\Return The Factorial.csproj", "{895D6E4E-BC98-4FB9-8E89-0C0C4D3B44C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return The Factorial", "Return The Factorial\Return The Factorial.csproj", "{895D6E4E-BC98-4FB9-8E89-0C0C4D3B44C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build Array From Permutation", "Build Array From Permutation\Build Array From Permutation.csproj", "{F88DAE68-0B72-46A9-B3F0-F4B9C992DCF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{895D6E4E-BC98-4FB9-8E89-0C0C4D3B44C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{895D6E4E-BC98-4FB9-8E89-0C0C4D3B44C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{895D6E4E-BC98-4FB9-8E89-0C0C4D3B44C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88DAE68-0B72-46A9-B3F0-F4B9C992DCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88DAE68-0B72-46A9-B3F0-F4B9C992DCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88DAE68-0B72-46A9-B3F0-F4B9C992DCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88DAE68-0B72-46A9-B3F0-F4B9C992DCF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
